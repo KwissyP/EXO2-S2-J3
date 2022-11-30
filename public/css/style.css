@@ -1,0 +1,39 @@
+header {
+    background-color: #0000FF;
+    border-radius: 5px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+section {
+    display: flex;
+    justify-content: space-between;
+    height: 605px;
+}
+
+#orange {
+    background-color: #FF7F50;
+    width: 20%;
+    margin-right: 5px;
+    border-radius: 5px;
+}
+
+#orangebis {
+    background-color: #FF7F50;
+    width: 20%;
+    margin-left: 5px;
+    border-radius: 5px;
+}
+
+#bleu {
+    background-color: #6495ED;
+    width: 60%;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #0000FF;
+    border-radius: 5px;
+    height: 50px;
+    margin-top: 10px;
+}
